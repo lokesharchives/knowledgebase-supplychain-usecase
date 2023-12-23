@@ -1,0 +1,88 @@
+ProductID,ProductName,Price,SupplierID,SupplierName,CustomerID,CustomerName
+1,Laptop,1000,101,ABC Electronics,201,John Doe
+2,Smartphone,600,102,XYZ Tech,202,Jane Smith
+3,Tablet,400,101,ABC Electronics,201,John Doe
+4,Keyboard,50,102,XYZ Tech,203,Michael Brown
+5,Mouse,20,101,ABC Electronics,204,Emily Johnson
+6,Monitor,250,103,Acme Technologies,205,David Wilson
+7,Headphones,80,104,Sound Solutions,206,Sarah Lee
+8,Printer,150,101,ABC Electronics,207,William Davis
+9,Speakers,100,105,Audio Systems,208,Laura Martinez
+10,External HDD,120,102,XYZ Tech,201,John Doe
+11,Webcam,70,104,Sound Solutions,209,Michael Smith
+12,Router,90,103,Acme Technologies,210,Emily Wilson
+13,Scanner,80,106,Techtronics,211,Liam Brown
+14,External SSD,180,101,ABC Electronics,212,Olivia Davis
+15,Smartwatch,300,102,XYZ Tech,213,Emma Lee
+16,Graphics Card,500,103,Acme Technologies,214,James Wilson
+17,Game Console,400,101,ABC Electronics,215,William Smith
+18,Printer Paper,10,107,Office Supplies Co.,216,Grace Johnson
+19,Ink Cartridges,50,107,Office Supplies Co.,217,Ella Martinez
+20,Desk,200,108,Furniture Depot,218,Oliver Davis
+21,Chair,80,108,Furniture Depot,201,John Doe
+22,Bookshelf,120,108,Furniture Depot,210,Emily Wilson
+23,Whiteboard,40,107,Office Supplies Co.,211,Liam Brown
+24,Projector,400,105,Audio Systems,214,James Wilson
+25,Camera,350,106,Techtronics,209,Michael Smith
+26,Scanner,80,107,Office Supplies Co.,215,William Smith
+27,Smartphone,600,102,XYZ Tech,204,Emily Johnson
+28,Tablet,400,101,ABC Electronics,203,Michael Brown
+29,Laptop,1000,101,ABC Electronics,208,Laura Martinez
+30,External HDD,120,102,XYZ Tech,212,Olivia Davis
+31,Mouse,20,101,ABC Electronics,213,Emma Lee
+32,Keyboard,50,102,XYZ Tech,202,Jane Smith
+33,Headphones,80,104,Sound Solutions,206,Sarah Lee
+34,Printer,150,101,ABC Electronics,217,Ella Martinez
+35,Monitor,250,103,Acme Technologies,218,Oliver Davis
+36,Webcam,70,104,Sound Solutions,204,Emily Johnson
+37,Smartwatch,300,102,XYZ Tech,209,Michael Smith
+38,Graphics Card,500,103,Acme Technologies,202,Jane Smith
+39,Game Console,400,101,ABC Electronics,201,John Doe
+40,Speakers,100,105,Audio Systems,204,Emily Johnson
+41,External SSD,180,101,ABC Electronics,210,Emily Wilson
+42,Scanner,80,106,Techtronics,215,William Smith
+43,Router,90,103,Acme Technologies,202,Jane Smith
+44,Printer Paper,10,107,Office Supplies Co.,204,Emily Johnson
+45,Ink Cartridges,50,107,Office Supplies Co.,208,Laura Martinez
+46,Desk,200,108,Furniture Depot,206,Sarah Lee
+47,Chair,80,108,Furniture Depot,210,Emily Wilson
+48,Bookshelf,120,108,Furniture Depot,209,Michael Smith
+49,Whiteboard,40,107,Office Supplies Co.,218,Oliver Davis
+50,Projector,400,105,Audio Systems,213,Emma Lee
+51,Camera,350,106,Techtronics,202,Jane Smith
+52,Scanner,80,107,Office Supplies Co.,208,Laura Martinez
+53,Smartphone,600,102,XYZ Tech,212,Olivia Davis
+54,Tablet,400,101,ABC Electronics,211,Liam Brown
+55,Laptop,1000,101,ABC Electronics,201,John Doe
+56,External HDD,120,102,XYZ Tech,216,Grace Johnson
+57,Mouse,20,101,ABC Electronics,217,Ella Martinez
+58,Keyboard,50,102,XYZ Tech,218,Oliver Davis
+59,Headphones,80,104,Sound Solutions,211,Liam Brown
+60,Printer,150,101,ABC Electronics,201,John Doe
+61,Monitor,250,103,Acme Technologies,210,Emily Wilson
+62,Webcam,70,104,Sound Solutions,215,William Smith
+63,Smartwatch,300,102,XYZ Tech,206,Sarah Lee
+64,Graphics Card,500,103,Acme Technologies,201,John Doe
+65,Game Console,400,101,ABC Electronics,209,Michael Smith
+66,Speakers,100,105,Audio Systems,210,Emily Wilson
+67,External SSD,180,101,ABC Electronics,216,Grace Johnson
+68,Scanner,80,106,Techtronics,211,Liam Brown
+69,Router,90,103,Acme Technologies,207,William Davis
+70,Printer Paper,10,107,Office Supplies Co.,204,Emily Johnson
+71,Ink Cartridges,50,107,Office Supplies Co.,218,Oliver Davis
+72,Desk,200,108,Furniture Depot,203,Michael Brown
+73,Chair,80,108,Furniture Depot,201,John Doe
+74,Bookshelf,120,108,Furniture Depot,204,Emily Johnson
+75,Whiteboard,40,107,Office Supplies Co.,205,David Wilson
+76,Projector,400,105,Audio Systems,207,William Davis
+77,Camera,350,106,Techtronics,203,Michael Brown
+78,Scanner,80,107,Office Supplies Co.,202,Jane Smith
+79,Smartphone,600,102,XYZ Tech,206,Sarah Lee
+80,Tablet,400,101,ABC Electronics,202,Jane Smith
+81,Laptop,1000,101,ABC Electronics,207,William Davis
+82,External HDD,120,102,XYZ Tech,201,John Doe
+83,Mouse,20,101,ABC Electronics,210,Emily Wilson
+84,Keyboard,50,102,XYZ Tech,204,Emily Johnson
+85,Headphones,80,104,Sound Solutions,213,Emma Lee
+86,Printer,150,101,ABC Electronics,207,William Davis
+87,Monitor,250,103,Acme Technologies,202,Jane Smith
